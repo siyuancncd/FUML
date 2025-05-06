@@ -52,4 +52,4 @@ If you have any questions, please email ddzz12277315 AT 163 DOT com or siyuandua
 
 ## Acknowledgement
 
-The code is inspired by [Fuzzy Multimodal Learning for Trusted Cross-modal Retrieval](https://github.com/siyuancncd/FUME).
+The code is inspired by [Fuzzy Multimodal Learning for Trusted Cross-modal Retrieval](https://github.com/siyuancncd/FUME) (CVPR 2025).
