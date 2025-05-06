@@ -12,6 +12,9 @@ Multi-view learning methods primarily focus on enhancing decision accuracy but o
 
 ## Motivation
 
+<p align="center">
+<img src="https://github.com/siyuancncd/FUME/blob/main/FUME_problem1.png" width="220" height="179">
+</p>
 
 
 The code is coming soon...
