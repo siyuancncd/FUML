@@ -50,5 +50,3 @@ coming soon...
 
 If you have any questions, please email ddzz12277315 AT 163 DOT com or siyuanduancn AT gmail DOT com.
 
-## Acknowledgement
-
