@@ -38,9 +38,13 @@ Multi-view learning methods primarily focus on enhancing decision accuracy but o
 
 ## Datasets
 
+All datasets can be downloaded from 
+
 ## Train and test
 
-The code is coming soon...
+```
+python main.py
+```
 
 ## Citation
 
