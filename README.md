@@ -16,5 +16,27 @@ Multi-view learning methods primarily focus on enhancing decision accuracy but o
 <img src="https://github.com/siyuancncd/FUML/blob/main/FUML_motivations.png" width="440" height="360">
 </p>
 
+(a) Visualization of the conflicting multi-view instance: the depth view is related to the ``Bedroom'' category, while the other views show conflicting information, such as ``Bathroom.'' (b) EDL-based TMVC methods are sensitive to such conflicting multi-view instances. On one hand, because they neglect the global conflict between views in multi-view fusion, classification errors are often made. On the other hand, their uncertainty estimation is only related to the total evidence and the number of categories. For conflicting multi-view instances, as long as the total evidence is large, the uncertainty is seriously underestimated. (c) In our method, both global conflict and uncertainty are considered during fusion, allowing the conflicting multi-view instances to be classified correctly. Additionally, this method can estimate decision uncertainty more accurately.
+
+## Framework
+
+## Experiments
+
+## Requirements
+
+## Datasets
+
+## Train and test
 
 The code is coming soon...
+
+## Citation
+
+coming soon...
+
+## Question?
+
+If you have any questions, please email ddzz12277315 AT 163 DOT com or siyuanduancn AT gmail DOT com.
+
+## Acknowledgement
+
