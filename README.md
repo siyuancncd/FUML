@@ -24,7 +24,7 @@ Multi-view learning methods primarily focus on enhancing decision accuracy but o
 <img src="https://github.com/siyuancncd/FUML/blob/main/FUML_framework.png" width="1000" height="420">
 </p>
 
-## Experiments
+## Experimental Results
 
 ## Requirements
 
