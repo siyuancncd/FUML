@@ -40,6 +40,12 @@ Multi-view learning methods primarily focus on enhancing decision accuracy but o
 
 All datasets can be downloaded from 
 
+[https://github.com/YilinZhang107/Multi-view-Datasets](https://github.com/YilinZhang107/Multi-view-Datasets)
+
+[https://gitee.com/zhangfk/multi-view-dataset/tree/master](https://gitee.com/zhangfk/multi-view-dataset/tree/master)
+
+[https://github.com/JethroJames/Awesome-Multi-View-Learning-Datasets](https://github.com/JethroJames/Awesome-Multi-View-Learning-Datasets).
+
 ## Train and test
 
 ```
