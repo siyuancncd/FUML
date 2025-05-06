@@ -13,7 +13,7 @@ Multi-view learning methods primarily focus on enhancing decision accuracy but o
 ## Motivation
 
 <p align="center">
-<img src="https://github.com/siyuancncd/FUML/blob/main/FUML_motivations.png" width="220" height="179">
+<img src="https://github.com/siyuancncd/FUML/blob/main/FUML_motivations.png" width="440" height="360">
 </p>
 
 
