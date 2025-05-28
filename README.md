@@ -62,9 +62,10 @@ python main.py
 ```
 
 ## Citation
-
+If this codebase is useful for your work, please cite our paper:
+```
 coming soon...
-
+```
 ## Question?
 
 If you have any questions, please email ddzz12277315 AT 163 DOT com or siyuanduancn AT gmail DOT com.
