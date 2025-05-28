@@ -34,7 +34,7 @@ Multi-view learning methods primarily focus on enhancing decision accuracy but o
 <img src="https://github.com/siyuancncd/FUML/blob/main/FUML_results2.png" width="1000" height="200">
 </p>
 
-## Get Started
+## Get Started!
 
 1️⃣ Install required libraries:
 
@@ -49,7 +49,7 @@ scikit-learn==1.5.0
 scipy==1.13.1
 ```
 
-2️⃣ Download the dataset and put it in the **datasets** folder
+2️⃣ Download the dataset and put them in the **datasets** folder.
 
 ### Datasets
 
@@ -61,7 +61,7 @@ All datasets can be downloaded from
 
 [https://github.com/JethroJames/Awesome-Multi-View-Learning-Datasets](https://github.com/JethroJames/Awesome-Multi-View-Learning-Datasets).
 
-3️⃣ run code.
+3️⃣ Run the code.
 
 ### Train and test
 
