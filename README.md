@@ -51,7 +51,7 @@ scikit-learn==1.5.0
 scipy==1.13.1
 ```
 
-2️⃣ Download the dataset and put them in the **datasets** folder.
+2️⃣ Download the datasets and put them in the **datasets** folder.
 
 ### Datasets
 
@@ -78,7 +78,7 @@ coming soon...
 ```
 ## Question?
 
-If you have any questions, please email ddzz12277315 AT 163 DOT com or siyuanduancn AT gmail DOT com.
+If you have any questions, please email siyuanduancn AT gmail DOT com.
 
 ## Acknowledgement
 
