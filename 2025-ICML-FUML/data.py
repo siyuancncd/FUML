@@ -31,7 +31,7 @@ class Multi_view_data(Dataset):
                 if sp.issparse(x):
                     x = x.toarray()
                 self.X[v_num] = self.normalize(x)
-        elif name == ' MSRC':
+        elif name == 'MSRC':
             self.Y = dataset['gt'].reshape(-1).astype(int) 
             for v_num in range(view_number):
                 self.X[v_num] = self.normalize(dataset['x' + str(v_num + 1) ]) 
