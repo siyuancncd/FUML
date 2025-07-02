@@ -2,8 +2,10 @@
 
 Siyuan Duan, Yuan Sun, Dezhong Peng, Guiduo Duan, Xi Peng, and Peng Hu. "Deep Fuzzy Multi-view Learning for Reliable Classification". (ICML 2025, PyTorch Code)
 
-Paper is available at [here](https://github.com/siyuancncd/FUML/blob/main/src/ICML25_Deep_Fuzzy_Multi_view_Learning_for_Reliable_Classification.pdf).
-
+- Paper is available at [here](https://github.com/siyuancncd/FUML/blob/main/src/ICML25_Deep_Fuzzy_Multi_view_Learning_for_Reliable_Classification.pdf).
+- Poster is available at [here](https://github.com/siyuancncd/FUML/blob/main/FUML_poster.png).
+- PPT is available at [here](https://github.com/siyuancncd/FUML/blob/main/FUML_poster.png).
+  
 ## 
 
 :bangbang: **I’m actively seeking a PhD position for Fall 2026 entry.** If you believe my background aligns with your research needs, please feel free to contact me via email at siyuanduancn@gmail.com.
