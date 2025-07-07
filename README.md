@@ -5,6 +5,7 @@ Siyuan Duan, Yuan Sun, Dezhong Peng, Guiduo Duan, Xi Peng, and Peng Hu. "[Deep F
 - Paper is available at [here](https://github.com/siyuancncd/FUML/blob/main/src/ICML25_Deep_Fuzzy_Multi_view_Learning_for_Reliable_Classification.pdf).
 - Poster is available at [here](https://github.com/siyuancncd/FUML/blob/main/FUML_poster.png).
 - PPT is available at [here](https://github.com/siyuancncd/FUML/blob/main/FUML-AITIME-Intro.pdf).
+- 中文讲解 在 [这里](https://www.bilibili.com/video/BV1mA3yzEEWF/?spm_id_from=333.1387.homepage.video_card.click&vd_source=6c3619d976449503d4bb811d9044ee7f&t=5481).
   
 ## 
 
