@@ -6,10 +6,6 @@ Siyuan Duan, Yuan Sun, Dezhong Peng, Guiduo Duan, Xi Peng, and Peng Hu. "[Deep F
 - Poster is available at [here](https://github.com/siyuancncd/FUML/blob/main/FUML_poster.png).
 - PPT is available at [here](https://github.com/siyuancncd/FUML/blob/main/FUML-AITIME-Intro.pdf).
 - 中文讲解 在 [这里](https://www.bilibili.com/video/BV1mA3yzEEWF/?spm_id_from=333.1387.homepage.video_card.click&vd_source=6c3619d976449503d4bb811d9044ee7f&t=5481).
-  
-## 
-
-:bangbang: **I’m actively seeking a PhD position for Fall 2026 entry.** If you believe my background aligns with your research needs, please feel free to contact me via email at siyuanduancn@gmail.com.
 
 ## Abstract
 
