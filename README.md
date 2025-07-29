@@ -71,12 +71,22 @@ python main.py
 ```
 
 ## Citation
-If this codebase is useful for your work, please cite our paper:
+If this codebase is useful for your work, please cite our papers:
 ```
 @inproceedings{duandeep,
   title={Deep Fuzzy Multi-view Learning for Reliable Classification},
   author={Duan, Siyuan and Sun, Yuan and Peng, Dezhong and Duan, Guiduo and Peng, Xi and Hu, Peng},
   booktitle={Forty-second International Conference on Machine Learning}
+}
+```
+
+```
+@inproceedings{duan2025fuzzy,
+  title={Fuzzy Multimodal Learning for Trusted Cross-modal Retrieval},
+  author={Duan, Siyuan and Sun, Yuan and Peng, Dezhong and Liu, Zheng and Song, Xiaomin and Hu, Peng},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={20747--20756},
+  year={2025}
 }
 ```
 ## Question?
