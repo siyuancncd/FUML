@@ -77,6 +77,7 @@ If this codebase is useful for your work, please cite our papers:
   title={Deep Fuzzy Multi-view Learning for Reliable Classification},
   author={Duan, Siyuan and Sun, Yuan and Peng, Dezhong and Duan, Guiduo and Peng, Xi and Hu, Peng},
   booktitle={Forty-second International Conference on Machine Learning}
+  year={2025}
 }
 ```
 
