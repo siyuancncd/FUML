@@ -1,5 +1,10 @@
 # FUML
 
+<p align="left">
+  <img src="https://img.shields.io/badge/license-MIT-brightgreen" alt="License">
+    <img src="https://komarev.com/ghpvc/?username=siyuancncd&repo=FUML" alt="GitHub Views">
+</p>
+
 Siyuan Duan, Yuan Sun, Dezhong Peng, Guiduo Duan, Xi Peng, and Peng Hu. "[Deep Fuzzy Multi-view Learning for Reliable Classification](https://openreview.net/forum?id=ZzuaeYvLsJ)". (ICML 2025, PyTorch Code)
 
 - Paper is available at [here](https://github.com/siyuancncd/FUML/blob/main/src/ICML25_Deep_Fuzzy_Multi_view_Learning_for_Reliable_Classification.pdf).
