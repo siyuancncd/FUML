@@ -105,6 +105,11 @@ If this codebase is useful for your work, please cite our papers:
 }
 ```
 
+## Future Work
+
+ Our FUML's extended version, R-FUML[Robust Fuzzy Multi-view Learning under View
+Conflict](https://arxiv.org/pdf/2605.24475) has been released.
+
 ## Question?
 
 If you have any questions, please email siyuanduancn AT gmail DOT com.
