@@ -107,8 +107,10 @@ If this codebase is useful for your work, please cite our papers:
 
 ## Future Work
 
- Our FUML's extended version, R-FUML ([Robust Fuzzy Multi-view Learning under View
-Conflict](https://arxiv.org/pdf/2605.24475)) has been released.
+1. **Extending to situations where there are view conflicts in both training and testing** (Our FUML's extended version, R-FUML ([Robust Fuzzy Multi-view Learning under View
+Conflict](https://arxiv.org/pdf/2605.24475)) has been released).
+2. **Extending to more practical scenarios and problems**, such as: missing view problems, multi-label classification problems, long-tail classification problems, adversarial attacks problems, streaming multimedia scenarios, semi-supervised scenarios, and unsupervised scenarios. (If you are interested in collaborating with me to solve these problems, please feel free to contact me via the email address above.)
+3. **Expanding the theoretical boundaries**. Several issues remain unresolved: a) FUML lacks uncertainty calibration; b) FUML stands for deterministic pipeline, which may result in inaccurate uncertainty estimations in certain scenarios. (If you are interested in collaborating with me to solve these problems, please feel free to contact me via the email address above.)
 
 ## Question?
 
